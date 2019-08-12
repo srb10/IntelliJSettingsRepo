@@ -1,0 +1,22 @@
+<application>
+  <component name="libraryTable">
+    <library name="libs">
+      <CLASSES>
+        <root url="jar://C:/dev/IMS_DataEntry/ims/mainflex/IMS3/IMSLib/libs/AlivePDF.swc!/" />
+        <root url="jar://C:/dev/IMS_DataEntry/ims/mainflex/IMS3/IMSLib/libs/as3xls-1.0.swc!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="libs1" type="flex">
+      <CLASSES>
+        <root url="file://C:/dev/IMS_DataEntry/ims/mainflex/IMS3/IMSLib/libs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/dev/IMS_DataEntry/ims/mainflex/IMS3/IMSLib/src" />
+      </SOURCES>
+      <jarDirectory url="file://C:/dev/IMS_DataEntry/ims/mainflex/IMS3/IMSLib/libs" recursive="false" />
+    </library>
+  </component>
+</application>
