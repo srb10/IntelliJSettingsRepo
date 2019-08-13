@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="LiveEdit Enable" displayType="NONE" shouldLog="false" />
-    <notification groupId="Quokka Notifications" shouldLog="false" />
-  </component>
-</application>
