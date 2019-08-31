@@ -1,1 +1,9 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="300" />
+    <option name="SOFT_MARGINS" value="120,300" />
+  </codeStyleSettings>
+</code_scheme>
