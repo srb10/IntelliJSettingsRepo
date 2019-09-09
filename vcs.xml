@@ -35,6 +35,7 @@
     <option name="cloneParentDir" value="C:\dev\learning" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
