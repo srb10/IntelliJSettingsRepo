@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*config.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -28,8 +28,8 @@
     <mask>*.drl</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*config.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
