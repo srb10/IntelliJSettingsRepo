@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="not-bootstrap" />
     <option name="defaultScopeName" value="not-bootstrap" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="not-bootstrap" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
@@ -19,8 +21,8 @@
     <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*config.ts</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
