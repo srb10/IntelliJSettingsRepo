@@ -4,12 +4,13 @@
     <property name="created">2021-02-04T11:14:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-02-04T18:21:26</property>
+    <property name="modified">2021-10-27T11:17:02</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
