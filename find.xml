@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="not-bootstrap" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="not-bootstrap" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -22,7 +23,7 @@
     <mask>*.ts</mask>
     <mask>*config.ts</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
