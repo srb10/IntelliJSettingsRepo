@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="not-bootstrap" />
-    <option name="defaultScopeName" value="not-bootstrap" />
-    <option name="SEARCH_SCOPE" value="not-bootstrap" />
+    <option name="customScope" value="components - not templates though" />
+    <option name="defaultScopeName" value="components - not templates though" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="components - not templates though" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
