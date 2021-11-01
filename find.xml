@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="libs only" />
-    <option name="FILE_MASK" value="*config.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -25,7 +25,7 @@
     <mask>*.ts</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*config.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
