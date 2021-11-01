@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="components - not templates though" />
-    <option name="defaultScopeName" value="components - not templates though" />
+    <option name="customScope" value="libs only" />
+    <option name="defaultScopeName" value="libs only" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="components - not templates though" />
+    <option name="SEARCH_SCOPE" value="libs only" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
