@@ -3,12 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="libs only" />
     <option name="defaultScopeName" value="libs only" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="libs only" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -25,8 +24,8 @@
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*config.ts</mask>
+    <mask>*.ts</mask>
+    <mask>*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
-    <mask>*.ts</mask>
   </component>
 </application>
