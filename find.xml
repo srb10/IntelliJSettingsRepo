@@ -4,9 +4,7 @@
     <option name="defaultScopeName" value="libs only" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="libs only" />
     <mask>*.xml</mask>
@@ -26,7 +24,7 @@
     <mask>*config.ts</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
