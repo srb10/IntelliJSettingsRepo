@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="libs only" />
     <option name="defaultScopeName" value="libs only" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="libs only" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
