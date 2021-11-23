@@ -3,6 +3,7 @@
     <option name="customScope" value="libs only" />
     <option name="defaultScopeName" value="libs only" />
     <option name="SEARCH_SCOPE" value="libs only" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -18,9 +19,9 @@
     <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*config.ts</mask>
-    <mask>*.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
