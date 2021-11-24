@@ -3,7 +3,6 @@
     <option name="customScope" value="libs only" />
     <option name="defaultScopeName" value="libs only" />
     <option name="SEARCH_SCOPE" value="libs only" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
