@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="derby.embedded" name="">
+      <artifact />
+    </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="9.4.0" />
       <option name="schema-control" value="MANUAL" />
