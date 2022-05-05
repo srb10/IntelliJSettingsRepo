@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="Native" />
       <mapping ext="vpn" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="reducer" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
