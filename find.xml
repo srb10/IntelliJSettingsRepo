@@ -24,7 +24,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.mxml</mask>
-    <mask>*.drl</mask>
     <mask>*.java</mask>
     <mask>*config.ts</mask>
     <mask>*.css</mask>
@@ -32,5 +31,6 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.drl</mask>
   </component>
 </application>
