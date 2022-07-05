@@ -27,10 +27,10 @@
     <mask>*.java</mask>
     <mask>*config.ts</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
     <mask>*.drl</mask>
+    <mask>*.html</mask>
   </component>
 </application>
