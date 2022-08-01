@@ -11,7 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -27,9 +27,9 @@
     <mask>*config.ts</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.drl</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
