@@ -27,8 +27,8 @@
     <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.drl</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
