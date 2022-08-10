@@ -29,9 +29,9 @@
     <mask>*config.ts</mask>
     <mask>*.css</mask>
     <mask>*.drl</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
