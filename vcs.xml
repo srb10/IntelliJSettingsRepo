@@ -8,7 +8,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="Sboggs" />
+          <option name="userName" value="srboggs" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/cornflourblue/angular-6-custom-modal.git" />
@@ -36,16 +36,25 @@
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+        <option value="Default.Hash" />
       </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Hash.ColumnIdVisibility" value="true" />
+      </map>
     </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="SHOW_DIFF_ON_DOUBLE_CLICK" value="true" />
   </component>
 </application>
