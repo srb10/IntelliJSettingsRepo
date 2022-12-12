@@ -30,9 +30,9 @@
     <mask>*.drl</mask>
     <mask>*.scss</mask>
     <mask>*config.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.module.ts</mask>
+    <mask>*.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
