@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Unnamed" />
-    <option name="defaultScopeName" value="Unnamed" />
+    <option name="customScope" value="my code only" />
+    <option name="defaultScopeName" value="my code only" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Unnamed" />
+    <option name="SEARCH_SCOPE" value="my code only" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
