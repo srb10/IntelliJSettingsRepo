@@ -33,9 +33,13 @@
           <option name="url" value="https://github.com/onehungrymind/angular-rxjs-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ionic-team/slides-migration-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\learning" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/srb" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
