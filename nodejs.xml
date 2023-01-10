@@ -3,5 +3,6 @@
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
       <version-cache version="16.16.0" last-modified="1657210078000" />
     </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node" excluded="true" />
   </component>
 </application>
