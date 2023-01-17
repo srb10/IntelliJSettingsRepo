@@ -23,11 +23,11 @@
     <mask>*.css</mask>
     <mask>*.drl</mask>
     <mask>*.scss</mask>
-    <mask>*config.ts</mask>
     <mask>*.module.ts</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
+    <mask>*config.ts</mask>
     <mask>*.html</mask>
   </component>
 </application>
