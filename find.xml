@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="vantage-ui limited" />
+    <option name="defaultScopeName" value="vantage-ui limited" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="vantage-ui limited" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -22,9 +23,9 @@
     <mask>*.scss</mask>
     <mask>*config.ts</mask>
     <mask>*.module.ts</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
     <mask>*module.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
