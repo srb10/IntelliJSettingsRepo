@@ -89,9 +89,13 @@
           <option name="url" value="https://github.com/t4d-accelebrate-video-shorts/angular-custom-form-control.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/angular/angular.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/tr" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
