@@ -1,0 +1,7 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="TableResult.UnselectPreviousOccurrence" />
+  <action id="UnselectPreviousOccurrence" />
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+</keymap>
