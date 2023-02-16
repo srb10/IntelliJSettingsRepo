@@ -117,6 +117,26 @@
           <option name="url" value="https://Sboggs@bitbucket.org/transeo/vantage-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Sboggs@bitbucket.org/transeo/nash-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Sboggs@bitbucket.org/transeo/okc-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Sboggs@bitbucket.org/transeo/chi-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Sboggs@bitbucket.org/transeo/nj-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Sboggs@bitbucket.org/transeo/ims.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev-tr" />
