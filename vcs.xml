@@ -109,6 +109,10 @@
           <option name="url" value="https://Sboggs@bitbucket.org/transeo/common-resources.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Sboggs@bitbucket.org/transeo/pcpt-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev-Transeo" />
