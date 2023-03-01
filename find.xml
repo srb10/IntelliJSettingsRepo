@@ -28,9 +28,10 @@
     <mask>*.scss</mask>
     <mask>*config.ts</mask>
     <mask>*.module.ts</mask>
+    <mask>*module.ts</mask>
+    <mask>*.service.ts</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
-    <mask>*module.ts</mask>
   </component>
 </application>
