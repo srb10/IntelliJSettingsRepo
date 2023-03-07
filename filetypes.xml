@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".jsbeautifyrc" type="JSON" />
       <mapping pattern=".gitkeep" type="Native" />
       <mapping ext="vpn" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
