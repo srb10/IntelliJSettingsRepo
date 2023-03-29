@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Unnamed" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -19,7 +20,6 @@
     <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.drl</mask>
-    <mask>*.scss</mask>
     <mask>*.module.ts</mask>
     <mask>*module.ts</mask>
     <mask>*.service.ts</mask>
@@ -28,5 +28,6 @@
     <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*config.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
