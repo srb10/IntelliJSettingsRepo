@@ -3,7 +3,6 @@
     <option name="settings">
       <map>
         <entry key="ide.macos.disable.native.shortcut.symbols" value="true" />
-        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
