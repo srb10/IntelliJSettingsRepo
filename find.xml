@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="vantage-ui limited" />
-    <option name="defaultScopeName" value="vantage-ui limited" />
+    <option name="customScope" value="apps and libs" />
+    <option name="defaultScopeName" value="apps and libs" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="vantage-ui limited" />
+    <option name="SEARCH_SCOPE" value="apps and libs" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
