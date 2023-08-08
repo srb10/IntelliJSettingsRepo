@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ChangesView.GroupBy.Module" />
+  <action id="ExtractMethod" />
+  <action id="TodoViewGroupByShowModules" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="UsageGrouping.Module" />
+</keymap>
