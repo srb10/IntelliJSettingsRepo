@@ -11,6 +11,7 @@
     <entry key="ide.tooltip.initialDelay" value="789" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="undo.documentUndoLimit" value="300" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
