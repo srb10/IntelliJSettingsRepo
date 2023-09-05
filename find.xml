@@ -4,15 +4,14 @@
     <option name="customScope" value="libs only" />
     <option name="defaultScopeName" value="libs only" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="libs only" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
@@ -32,10 +31,10 @@
     <mask>*.service.ts</mask>
     <mask>*.json</mask>
     <mask>*config.ts</mask>
-    <mask>*.scss</mask>
     <mask>*service.ts</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
