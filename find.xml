@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '…\libs\data-entry\src\lib\components\minor-insurance\minor-insurance.component.ts'" />
+    <option name="defaultScopeName" value="File '…\libs\data-entry\src\lib\components\minor-insurance\minor-insurance.component.ts'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '…\libs\data-entry\src\lib\components\minor-insurance\minor-insurance.component.ts'" />
     <mask>*.xml</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
