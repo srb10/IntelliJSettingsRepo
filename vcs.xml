@@ -157,9 +157,13 @@
           <option name="url" value="https://github.com/angular/components.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/David-Mawer/tabulator-angular-sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev-temp" />
+    <option name="cloneParentDir" value="C:\dev\grids" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
